@@ -12,6 +12,22 @@ body {
     color: #2c3e50;
 }
 
-img {
-    height: 100% auto;
+footer {
+    height: 50px;
+    background: #2c3e50;
+}
+
+.footer-text {
+    padding-top: 15px;
+    color: white;
+}
+
+footer a {
+    color: white;
+    text-decoration: none;
+}
+
+footer a:hover {
+    color: grey;
+    text-decoration: none;
 }
